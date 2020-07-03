@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.dis-1 {
+    display: flex;
+}
+.fl-d {
+    flex-direction: column;
+}
+.ju-1 {
+    justify-content: center;
+}
+.al-1 {
+    align-items: center;
+}
+.border {
+    border: none;
+}
+.w-1 {
+    width: 100%;
+}
+.h-1 {
+    height: 100%;
+}
+.bg {
+   background: transparent;
+}
+.po-1 {
+    position: relative;
+}
+.po-2 {
+    position: absolute;
+}
+.po-3 {
+    position: fixed;
+}
+.dis-n {
+    display: none;
+}
+.dis-b {
+    display: block;
+}
+.fz-14 {
+    font-size: 14px;
+}
+.fz-16 {
+    font-size: 16px;
+}
+.fz-18 {
+    font-size: 18px;
+}
+.fz-20 {
+    font-size: 20px;
+}
+.fz-22 {
+    font-size: 22px;
+}
+.fz-24 {
+    font-size: 24px;
+}
+.fz-26 {
+    font-size: 26px;
+}
+.fw {
+    font-weight: 700;
+}
+.w1 {
+    width: 1px;
+}
+.h1 {
+    height: 1px;
+}
+.mt-20{
+    margin-top: 20px;
+}
+.ml-20{
+    margin-left: 20px;
+}
+.mr-20 {
+    margin-right: 20px;
+}
+.pt-20 {
+    padding-top: 20px;
+}
+.mt-10 {
+    margin-top: 10px;
+}
+.sb{
+    justify-content: space-between;
+}
+.color{
+    color: white;
+}

@@ -1,0 +1,1 @@
+this.$utils.collection(this.obj)
