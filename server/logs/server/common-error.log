@@ -3438,3 +3438,12 @@ hostname: DESKTOP-DPJOEBK
 pid: 15812
 hostname: DESKTOP-DPJOEBK
 
+2020-07-03 10:12:04,040 ERROR 16980 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16980
+hostname: DESKTOP-DPJOEBK
+

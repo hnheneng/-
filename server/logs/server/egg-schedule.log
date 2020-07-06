@@ -433,3 +433,33 @@
 2020-07-03 10:12:01,159 INFO 8860 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
 2020-07-03 10:12:01,159 INFO 8860 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
 2020-07-03 10:12:01,159 INFO 8860 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-03 17:26:21,667 INFO 19320 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-03 17:26:21,667 INFO 19320 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-03 17:26:21,667 INFO 19320 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-03 17:26:26,662 INFO 13036 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-03 17:26:26,662 INFO 13036 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-03 17:26:26,662 INFO 13036 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-04 13:34:51,423 INFO 18740 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-04 13:34:51,423 INFO 18740 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-04 13:34:51,423 INFO 18740 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-04 13:34:58,929 INFO 17196 [Timer] C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 53701076ms at 2020-07-05 04:30:00.005
+2020-07-04 13:34:58,930 INFO 17196 [Timer] C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 37501070ms at 2020-07-05 00:00:00.000
+2020-07-04 13:34:58,931 INFO 17196 [Timer] C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 37502070ms at 2020-07-05 00:00:01.001
+2020-07-04 13:35:05,141 INFO 9660 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-04 13:35:05,141 INFO 9660 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-04 13:35:05,141 INFO 9660 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-04 13:35:25,853 INFO 3444 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-04 13:35:25,853 INFO 3444 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-04 13:35:25,853 INFO 3444 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-06 08:34:48,391 INFO 17628 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-06 08:34:48,391 INFO 17628 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-06 08:34:48,391 INFO 17628 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-06 08:34:50,072 INFO 10060 [Timer] C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 71709933ms at 2020-07-07 04:30:00.005
+2020-07-06 08:34:50,073 INFO 10060 [Timer] C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 55509927ms at 2020-07-07 00:00:00.000
+2020-07-06 08:34:50,074 INFO 10060 [Timer] C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 55510927ms at 2020-07-07 00:00:01.001
+2020-07-06 08:34:50,753 INFO 18492 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-06 08:34:50,753 INFO 18492 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-06 08:34:50,753 INFO 18492 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-06 08:34:54,007 INFO 4476 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-06 08:34:54,007 INFO 4476 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-06 08:34:54,007 INFO 4476 [egg-schedule]: register schedule C:\Users\MECHREVO\Desktop\wosini-vue\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
